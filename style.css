@@ -1,12 +1,12 @@
 .menu-bar {
-  background-color: #1988f7;
+  background-color: #ec0707;
   display: flex;
   justify-content: flex-start;
   box-sizing: border-box;
 }
 
 .item {
-  color: white;
+  color: rgb(0, 0, 0);
   background-color: transparent;
   font-size: 18px;
   display: inline-block;
